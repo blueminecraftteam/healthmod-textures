@@ -1,6 +1,6 @@
 # healthmod-textures
 
-Textures created by the HealthMod texturers. Licensed under CC BY-SA 4.0 International.
+Textures for HealthMod. Licensed under CC BY-SA 4.0 International.
 
 ## License
 
