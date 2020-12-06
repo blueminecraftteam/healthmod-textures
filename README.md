@@ -4,4 +4,15 @@ Textures created by the HealthMod texturers. Licensed under CC BY-SA 4.0 Interna
 
 ## License
 
-<p class="license-text"><span rel="dct:title">The HealthMod textures are made</span> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/ilja615">ilja615</a> and are licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
+The following textures are made by [ilja615](https://github.com/ilja615) and are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
+
+- [bandage_box_back.png](bandage_box_back.png)
+- [bandage_box_bottom.png](bandage_box_bottom.png)
+- [bandage_box_front.png](bandage_box_front.png)
+- [bandage_box_side.png](bandage_box_side.png)
+- [bandage_box_top.png](bandage_box_top.png)
+- [bandage.png](bandage.png)
+- [healthy.png](healthy.png)
+- [wound_infection.png](wound_infection.png)
