@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Health/bloodTestMachine",
-		"1": "Health/bloodTestMachineScreen",
-		"2": "Health/bloodTestEffects",
-		"particle": "Health/bloodTestMachine"
+		"0": "block/blood_test_machine",
+		"1": "block/blood_test_machine_screen",
+		"2": "block/blood_test_effects",
+		"particle": "block/bloodTestMachine"
 	},
 	"elements": [
 		{
