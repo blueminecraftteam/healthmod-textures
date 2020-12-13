@@ -26,7 +26,7 @@ The following textures are made by [ItalianCucumber](https://github.com/ItalianC
 - [blood_test_machine.png](blood_test_machine.png)
 - [blood_test_machine_screen.png](blood_test_machine_screen.png)
 - [blood_test_effects.png](blood_test_effects.png)
-- [blood_test_machine.json](blood_test_machine.json)
+- [blood_test_machine.json](blood_test_machine.json) / Scale decreased from 0.7 to 0.5 from original
 
 ---
 
