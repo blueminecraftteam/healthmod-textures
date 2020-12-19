@@ -53,6 +53,7 @@ The following textures are made by [HigherLight](https://github.com/HigherLight)
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p>
 
 - [isopropyl_alcohol.png](isopropyl_alcohol.png)
+- [soap.png](soap.png)
 - [bandage_box_back.png](bandage_box_back.png)
 - [bandage_box_front.png](bandage_box_front.png)
 - [bandage_box_side.png](bandage_box_side.png)
