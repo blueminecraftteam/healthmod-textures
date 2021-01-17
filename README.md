@@ -72,4 +72,4 @@ and are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa
 - [block/bandage_box_bottom.png](block/bandage_box_bottom.png)
 - [gui/first_aid_kit.png](gui/first_aid_kit.png)
 - [gui/bandage_box.png](gui/bandage_box.png)
-- [icon.png](icon.png)
+- [icon.png](icon.png) / Image resized from 1000x1000 to 512x512
